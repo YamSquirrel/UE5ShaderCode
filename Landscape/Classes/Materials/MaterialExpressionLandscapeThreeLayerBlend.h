@@ -1,4 +1,4 @@
-/*
+
 //++[RSTUDIO][figolai] 3 layer blend landscape material(sorting weights in runtime)
 
 #pragma once
@@ -56,4 +56,4 @@ class LANDSCAPE_API UMaterialExpressionLandscapeThreeLayerBlend : public UMateri
 };
 
 //--[RSTUDIO]
-*/
+

@@ -1,4 +1,4 @@
-/*
+
 //++[RSTUDIO][figolai] 3 layer blend landscape material(sorting weights in runtime)
 
 #include "Materials/MaterialExpressionLandscapeThreeLayerBlend.h"
@@ -364,4 +364,3 @@ int32 UMaterialExpressionLandscapeThreeLayerBlend::Compile(FMaterialCompiler* Co
 #undef LOCTEXT_NAMESPACE
 
 //--[RSTUDIO]
-*/
